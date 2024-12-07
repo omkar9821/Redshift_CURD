@@ -1,1 +1,1 @@
-# Redshift_CURD test
+# Redshift_CURD test again
